@@ -1,0 +1,46 @@
+{
+  "todosJSONServer": [
+    {
+      "id": "d025",
+      "title": "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis velit accusantium enim, pariatur totam esse temporibus earum mollitia in, molestias modi deserunt, quos magni accusamus aliquam repudiandae ipsa numquam doloremque?",
+      "isFavorite": true,
+      "completed": true
+    },
+    {
+      "id": "3ba8",
+      "title": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et officiis libero quod minus omnis, mollitia iste maxime, eligendi dolorem sequi commodi, iure deleniti nulla porro quae possimus velit perferendis aut?",
+      "isFavorite": true,
+      "completed": true
+    },
+    {
+      "id": "7266",
+      "title": "1",
+      "isFavorite": false,
+      "completed": false
+    },
+    {
+      "id": "f604",
+      "title": "qwer",
+      "isFavorite": false,
+      "completed": false
+    },
+    {
+      "id": "d355",
+      "title": "2",
+      "isFavorite": false,
+      "completed": true
+    },
+    {
+      "id": "031c",
+      "title": "3",
+      "isFavorite": false,
+      "completed": false
+    },
+    {
+      "id": "fe32",
+      "title": "zxc",
+      "isFavorite": false,
+      "completed": false
+    }
+  ]
+}
